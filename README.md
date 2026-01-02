@@ -121,4 +121,4 @@ The dashboard is built with a strong focus on **visual storytelling**, enabling 
 **Prince**
 Aspiring Data Analyst | Insurance Analytics Enthusiast
 
-DASHBOARD link -- 
+DASHBOARD link -- https://github.com/princesi22/Insurance-risk-claim-/blob/main/Recording%202026-01-02%20103441.gif
